@@ -35,4 +35,4 @@ git clone https://github.com/bagusperdanay7/final-project-dicoding.git
 6. And voila. Run the program.
 7. Select Runtime > Run all
 
-![Preview](tutorials\collab-preview.png)
+![Preview](https://github.com/bagusperdanay7/final-project-dicoding/blob/main/tutorials/collab-preview.png)
