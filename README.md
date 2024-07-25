@@ -8,14 +8,14 @@ English: The final project of the Dicoding course, Machine Learning Beginner, I 
 
 **This program needs:**
 
-| Tools & Tech Stack |
-| ------------------ |
-| Python             |
-| Google Colab       |
-| split-folders      |
-| TensorFlow         |
-| Numpy              |
-| Matplotlib         |
+| Tech Stack & Tools | Version |
+| ------------------ | ------- |
+| Python             | 3.8+    |
+| Google Colab       | -       |
+| split-folders      | 0.5+    |
+| TensorFlow         | 2.13+   |
+| Numpy              | 1.24+   |
+| Matplotlib         | 3.7+    |
 
 ## Setup (Google Colab)
 
