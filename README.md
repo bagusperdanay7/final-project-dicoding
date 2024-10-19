@@ -4,18 +4,18 @@ Indonesian: Project akhir dari Kursus Dicoding, yaitu Machine Learning Pemula. S
 
 English: The final project of the Dicoding course, Machine Learning Beginner, I was assigned to make Image Classification with Python & Tensorflow.
 
-## Technology stack
+## Technology stack & Tools
 
 **This program needs:**
 
-| Tech Stack & Tools | Version |
-| ------------------ | ------- |
-| Python             | 3.8+    |
-| Google Colab       | -       |
-| split-folders      | 0.5+    |
-| TensorFlow         | 2.13+   |
-| Numpy              | 1.24+   |
-| Matplotlib         | 3.7+    |
+| Tech Stack & Tools  | Version |
+| ------------------- | ------- |
+| Python              | 3.8+    |
+| Google Colaboratory | Latest  |
+| split-folders       | 0.5+    |
+| TensorFlow          | 2.13+   |
+| Numpy               | 1.24+   |
+| Matplotlib          | 3.7+    |
 
 ## Setup (Google Colab)
 
