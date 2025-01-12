@@ -1,8 +1,8 @@
-# Final Project Dicoding
+# Rock-Paper-Scissors Image Classification
 
-Indonesian: Project akhir dari Kursus Dicoding, yaitu Machine Learning Pemula. Saya ditugaskan untuk membuat Klasifikasi Gambar dengan Python & Tensorflow.
+[**Dokumentasi Bahasa Indonesia (Indonesia Documentation)**](/docs/id/README.md)
 
-English: The final project of the Dicoding course, Machine Learning Beginner, I was assigned to make Image Classification with Python & Tensorflow.
+A machine learning application built with Python and TensorFlow, implementing the Convolutional Neural Network algorithm to classify images of rock, scissors, and paper. This project is designed to aid in completing Dicoding Indonesia's Machine Learning for Beginners course.
 
 ## Technology stack & Tools
 
@@ -21,7 +21,11 @@ English: The final project of the Dicoding course, Machine Learning Beginner, I 
 
 ### Clone the repository
 
-Since this programme is run on [Google Colab](https://colab.research.google.com/), then you should open google colab.
+Since this programme is run on Google Colab, open Google Colab.
+
+[![Static Badge](https://img.shields.io/badge/Open%20in%20Colab-%23212121?logo=google%20colab)](https://colab.research.google.com/)
+
+And then clone my repository:
 
 ```shell
 git clone https://github.com/bagusperdanay7/final-project-dicoding.git
@@ -29,10 +33,10 @@ git clone https://github.com/bagusperdanay7/final-project-dicoding.git
 
 1. Open Google Colab
 2. Select menu File > Open notebook > GitHub
-3. Copy ‘https://github.com/bagusperdanay7/final-project-dicoding’ to the input box
+3. Copy '<https://github.com/bagusperdanay7/final-project-dicoding>' to the input box
 4. Search and wait for the repository to load.
 5. Select the repository that shows up.
 6. And voila. Run the program.
 7. Select Runtime > Run all
 
-![Preview](https://github.com/bagusperdanay7/final-project-dicoding/blob/main/tutorials/collab-preview.png)
+![Preview](/docs/images/collab-preview.png)
